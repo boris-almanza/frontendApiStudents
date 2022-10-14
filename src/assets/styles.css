@@ -1,0 +1,12 @@
+#title{
+	background-color: lightblue;
+	
+	margin-top: 10px;
+}
+
+.container{box-shadow: 0px 10px 10px -6px #bcc3c9;
+}
+
+.form-control{
+	width: 50%;
+}
